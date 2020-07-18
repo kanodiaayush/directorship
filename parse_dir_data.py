@@ -1,3 +1,7 @@
+# Convert text files to csv
+# Put text files in cross_directorship/
+# Output files show up in output/
+# One sample is added in the github
 import pandas as pd
 import ast
 import json
